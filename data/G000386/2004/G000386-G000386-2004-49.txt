@@ -1,0 +1,1 @@
+ The rule and the statement of managers contain some ambiguity as to which deductions are disallowed. The intent of the rule is to disallow only deductions for expenses that relate directly to generating the dividend income in question.  

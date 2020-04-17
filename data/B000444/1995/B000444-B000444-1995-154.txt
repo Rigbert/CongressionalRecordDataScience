@@ -1,0 +1,1 @@
+ GREGG. I have just been advised that if that is the case, we end up locking in the offsets here, which is something we would rather not do. Why do we not continue to proceed.  

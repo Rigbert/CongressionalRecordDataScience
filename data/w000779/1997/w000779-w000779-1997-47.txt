@@ -1,0 +1,1 @@
+Is my understanding correct that this undue burden language is intended to apply only in very unusual circumstances, such as where significant architectural modifications might be necessary?  

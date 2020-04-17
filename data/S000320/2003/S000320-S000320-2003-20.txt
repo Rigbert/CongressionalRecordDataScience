@@ -1,0 +1,1 @@
+ I think it is also true that debit card transactions and ATM transactions have some significant differences. Namely, the retailer owns the debit machine while the bank owns the ATM machine. This makes a ``point of sale'' disclosure--as we achieved in Gramm-Leach-Bliley--more difficult since banks cannot easily adjust the equipment and the software.  
